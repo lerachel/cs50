@@ -9,21 +9,6 @@
 > Technology: HTML, CSS, Git, Python, Django, SQL, Models, Migrations, Javascript, User Interfaces, Testing, CI/CD, Scalabity & Security
 
 
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
-
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
